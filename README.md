@@ -2,23 +2,12 @@
 
 An interactive privacy label explainer and comparison prototype inspired by research on user acceptance of privacy labels.
 
-## Quick visual preview
-
-See the main outputs first, then scroll for full interpretation and validation.
-
-### Privacy exposure score
-
-![Privacy exposure score gauge](result/newplot%20(9).png)
-
-### Radar risk profile
-
-![Radar profile of privacy factors](result/newplot%20(8).png)
-
 ### Data sharing breakdown by purpose
 
 ![Data collection and sharing by purpose](result/newplot%20(7).png)
 
-## What this project does
+
+## Project Highlight
 
 LabelClarity Studio helps users inspect app privacy labels in a more understandable way by adding:
 
@@ -27,8 +16,6 @@ LabelClarity Studio helps users inspect app privacy labels in a more understanda
 - cross-app comparison views
 - user-centered enhancement suggestions
 - a short summary that translates dense labels into everyday language
-
-## Why this project exists
 
 Recent research on privacy labels found that users care about transparency, distrust self-reported labels, worry about data-category accuracy, and are influenced by the amount of data practice shown in a label. This prototype turns those findings into a practical decision-support interface.
 
@@ -73,6 +60,19 @@ The app explains terms such as identifiers, diagnostics, linked, shared, and sel
 ### 5. Label enhancement suggestions
 
 The app recommends ways a privacy label could be improved for user trust and readability.
+
+## Quick visual preview
+
+See the main outputs first, then scroll for full interpretation and validation.
+
+### Privacy exposure score
+
+![Privacy exposure score gauge](result/newplot%20(9).png)
+
+### Radar risk profile
+
+![Radar profile of privacy factors](result/newplot%20(8).png)
+
 
 ## Project structure
 
