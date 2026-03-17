@@ -1,0 +1,72 @@
+[
+  {
+    "app_name": "ChatLoop",
+    "category": "Messaging",
+    "platform": "iOS",
+    "self_reported": true,
+    "data_collected": [
+      {"type": "Contact Info", "purpose": "Account management", "shared": false, "linked": true, "sensitive": false},
+      {"type": "Contacts", "purpose": "Find friends", "shared": false, "linked": true, "sensitive": true},
+      {"type": "Location", "purpose": "Nearby features", "shared": true, "linked": true, "sensitive": true},
+      {"type": "Usage Data", "purpose": "Analytics", "shared": true, "linked": false, "sensitive": false},
+      {"type": "Identifiers", "purpose": "Advertising", "shared": true, "linked": true, "sensitive": true}
+    ]
+  },
+  {
+    "app_name": "FocusTasks",
+    "category": "Productivity",
+    "platform": "Android",
+    "self_reported": true,
+    "data_collected": [
+      {"type": "Contact Info", "purpose": "Account management", "shared": false, "linked": true, "sensitive": false},
+      {"type": "User Content", "purpose": "Core app functionality", "shared": false, "linked": true, "sensitive": false},
+      {"type": "Usage Data", "purpose": "App improvement", "shared": false, "linked": false, "sensitive": false}
+    ]
+  },
+  {
+    "app_name": "FitBuddy",
+    "category": "Health & Fitness",
+    "platform": "iOS",
+    "self_reported": true,
+    "data_collected": [
+      {"type": "Health Data", "purpose": "Workout insights", "shared": false, "linked": true, "sensitive": true},
+      {"type": "Location", "purpose": "Route tracking", "shared": false, "linked": true, "sensitive": true},
+      {"type": "Diagnostics", "purpose": "Crash reporting", "shared": false, "linked": false, "sensitive": false},
+      {"type": "Identifiers", "purpose": "Subscriptions", "shared": false, "linked": true, "sensitive": false}
+    ]
+  },
+  {
+    "app_name": "QuickCam",
+    "category": "Photo & Video",
+    "platform": "Android",
+    "self_reported": true,
+    "data_collected": [
+      {"type": "Photos", "purpose": "Core app functionality", "shared": false, "linked": true, "sensitive": true},
+      {"type": "Location", "purpose": "Geo tagging", "shared": false, "linked": true, "sensitive": true},
+      {"type": "Usage Data", "purpose": "Analytics", "shared": true, "linked": false, "sensitive": false},
+      {"type": "Identifiers", "purpose": "Advertising", "shared": true, "linked": true, "sensitive": true}
+    ]
+  },
+  {
+    "app_name": "NewsBrief",
+    "category": "News",
+    "platform": "iOS",
+    "self_reported": true,
+    "data_collected": [
+      {"type": "Usage Data", "purpose": "Personalization", "shared": true, "linked": false, "sensitive": false},
+      {"type": "Identifiers", "purpose": "Advertising", "shared": true, "linked": true, "sensitive": true},
+      {"type": "Search History", "purpose": "Recommendation", "shared": false, "linked": true, "sensitive": true}
+    ]
+  },
+  {
+    "app_name": "CalmNotes",
+    "category": "Lifestyle",
+    "platform": "Android",
+    "self_reported": true,
+    "data_collected": [
+      {"type": "User Content", "purpose": "Core app functionality", "shared": false, "linked": true, "sensitive": true},
+      {"type": "Contact Info", "purpose": "Sync", "shared": false, "linked": true, "sensitive": false},
+      {"type": "Diagnostics", "purpose": "App stability", "shared": false, "linked": false, "sensitive": false}
+    ]
+  }
+]
